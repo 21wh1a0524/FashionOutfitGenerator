@@ -1,5 +1,5 @@
 # Fashion Outfit Generator
-📌 Project Overview
+📌 Project Overview<br>
 The Fashion Outfit Generator is a mini chatbot that provides personalized fashion recommendations. It gathers user details such as name, age, phone number, and gender, then asks for the occasion. The system uses this information to generate outfit suggestions based on location, age, and gender. If the user likes the outfit, it also suggests matching accessories.
 
 🎯 Features
